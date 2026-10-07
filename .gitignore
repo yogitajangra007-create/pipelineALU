@@ -1,0 +1,26 @@
+# Simulation outputs
+sim/waves/*.vcd
+sim/build/*.vvp
+sim/build/*.out
+
+# Vivado generated files
+vivado/reports/*.rpt
+vivado/*.jou
+vivado/*.log
+vivado/*.xpr
+vivado/.Xil/
+vivado/*.runs/
+vivado/*.cache/
+vivado/*.hw/
+vivado/*.ip_user_files/
+vivado/*.sim/
+vivado/*.srcs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
